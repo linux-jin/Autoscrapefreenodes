@@ -1,0 +1,56 @@
+{
+  "sites": [
+    {
+      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/mihomo.yaml",
+      "enabled": true,
+      "description": "kooker FreeSubsCheck - Mihomo/Clash Meta 订阅",
+      "type": "direct"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml",
+      "enabled": true,
+      "description": "kooker FreeSubsCheck - Standard Clash 订阅",
+      "type": "direct"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt",
+      "enabled": true,
+      "description": "kooker FreeSubsCheck - XiaoXi TXT 订阅",
+      "type": "direct"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt",
+      "enabled": true,
+      "description": "kooker FreeSubsCheck - kooker.jp TXT 订阅",
+      "type": "direct"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
+      "enabled": true,
+      "description": "anaer Sub - 综合 Clash 订阅",
+      "type": "direct"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
+      "enabled": true,
+      "description": "ermaozi get_subscribe - Clash 订阅",
+      "type": "direct"
+    }
+  ],
+  "settings": {
+    "port": 3000,
+    "dataDir": "data",
+    "version": "3.9.1",
+    "httpCache": true,
+    "cacheTTL": 1800000,
+    "tcpTimeout": 5000,
+    "tcpConcurrency": 150,
+    "batchGeoSize": 200,
+    "minQualityScore": 60,
+    "maxLatency": 5000,
+    "maxFraudScore": 30,
+    "updateInterval": 43200000,
+    "enabledRegions": ["us", "hk", "tw", "jp", "sg", "kr", "uk", "de", "ca", "au", "nl", "fr"],
+    "logLevel": "info"
+  }
+}
