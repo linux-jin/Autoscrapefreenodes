@@ -1,40 +1,21 @@
 # 🌐 订阅自动更新
 
 ![Update](https://img.shields.io/badge/更新频率-每2小时-blue)
-![SubsCheck](https://img.shields.io/badge/SubsCheck-1423-green)
-![XiaoXi](https://img.shields.io/badge/XiaoXi-1393-orange)
-![kooker.jp](https://img.shields.io/badge/kooker.jp-1393-purple)
+![SubsCheck](https://img.shields.io/badge/SubsCheck-1390-green)
+![XiaoXi](https://img.shields.io/badge/XiaoXi-1376-orange)
+![kooker.jp](https://img.shields.io/badge/kooker.jp-1376-purple)
 
-> **最后同步时间**：2026/10/02 04:47:47 (北京时间)
-> **ISO 时间**：2026-10-01T20:47:47.378Z
+> **最后同步时间**：`2026-10-02 09:11:54` (北京时间)
+> **ISO 时间**：`2026-10-02T01:11:54.362Z`
 
-### 节点统计
-- **有效节点数**: 1426
-- **平均质量分**: 82/100
-- **总质量分**: 116932
-
-### 🌍 地区分布
-- **美国**: 843 nodes
-- **德国**: 193 nodes
-- **法国**: 84 nodes
-- **新加坡**: 60 nodes
-- **日本**: 46 nodes
-- **荷兰**: 42 nodes
-- **英国**: 35 nodes
-- **韩国**: 28 nodes
-- **香港**: 25 nodes
-- **台湾**: 21 nodes
-- **加拿大**: 21 nodes
-- **中国**: 20 nodes
-- **澳大利亚**: 8 nodes
+### 📊 节点统计
+- **SubsCheck 节点数**：`1390`
+- **XiaoXi 节点数**：`1376`
+- **kooker.jp 节点数**：`1376`
 
 ### 🚀 订阅链接
-- **Mihomo / Clash Meta**: [mihomo.yaml](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/mihomo.yaml)
-- **Clash / Standard**: [all.yaml](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/all.yaml)
-- **Base64 (通用)**: [base64.txt](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/base64.txt)
-- **通用TXT (XiaoXi)**: [byxiaoxi.txt](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/byxiaoxi.txt)
-- **通用TXT (kooker.jp)**: [kooker.jp.txt](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/kooker.jp.txt)
---- | :--- |
+| 类型 | 订阅地址 |
+| :--- | :--- |
 | **Mihomo / Clash Meta** | [`mihomo.yaml`](https://raw.githubusercontent.com/Andy181-github/AutoScrapeFreeNodes/main/mihomo.yaml) |
 | **Clash / Standard** | [`all.yaml`](https://raw.githubusercontent.com/Andy181-github/AutoScrapeFreeNodes/main/all.yaml) |
 | **Base64 (通用)** | [`base64.txt`](https://raw.githubusercontent.com/Andy181-github/AutoScrapeFreeNodes/main/base64.txt) |
