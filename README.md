@@ -1,17 +1,17 @@
 # 🌐 订阅自动更新
 
 ![Update](https://img.shields.io/badge/更新频率-每2小时-blue)
-![SubsCheck](https://img.shields.io/badge/SubsCheck-656-green)
-![XiaoXi](https://img.shields.io/badge/XiaoXi-652-orange)
-![kooker.jp](https://img.shields.io/badge/kooker.jp-652-purple)
+![SubsCheck](https://img.shields.io/badge/SubsCheck-654-green)
+![XiaoXi](https://img.shields.io/badge/XiaoXi-650-orange)
+![kooker.jp](https://img.shields.io/badge/kooker.jp-650-purple)
 
-> **最后同步时间**：`2026-10-18 09:52:28` (北京时间)
-> **ISO 时间**：`2026-10-18T01:52:28.381Z`
+> **最后同步时间**：`2026-10-18 14:45:39` (北京时间)
+> **ISO 时间**：`2026-10-18T06:45:39.583Z`
 
 ### 📊 节点统计
-- **SubsCheck 节点数**：`656`
-- **XiaoXi 节点数**：`652`
-- **kooker.jp 节点数**：`652`
+- **SubsCheck 节点数**：`654`
+- **XiaoXi 节点数**：`650`
+- **kooker.jp 节点数**：`650`
 
 ### 🚀 订阅链接
 | 类型 | 订阅地址 |
