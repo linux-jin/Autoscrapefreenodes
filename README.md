@@ -5,17 +5,36 @@
 ![XiaoXi](https://img.shields.io/badge/XiaoXi-1647-orange)
 ![kooker.jp](https://img.shields.io/badge/kooker.jp-1647-purple)
 
-> **最后同步时间**：`2026-11-01 02:09:55` (北京时间)
-> **ISO 时间**：`2026-10-31T18:09:55.472Z`
+> **最后同步时间**：2026/11/01 03:43:11 (北京时间)
+> **ISO 时间**：2026-10-31T19:43:11.313Z
 
-### 📊 节点统计
-- **SubsCheck 节点数**：`1647`
-- **XiaoXi 节点数**：`1647`
-- **kooker.jp 节点数**：`1647`
+### 节点统计
+- **有效节点数**: 1654
+- **平均质量分**: 81/100
+- **总质量分**: 133974
+
+### 🌍 地区分布
+- **美国**: 1018 nodes
+- **德国**: 201 nodes
+- **荷兰**: 139 nodes
+- **新加坡**: 56 nodes
+- **日本**: 49 nodes
+- **法国**: 43 nodes
+- **中国**: 37 nodes
+- **英国**: 32 nodes
+- **澳大利亚**: 24 nodes
+- **香港**: 19 nodes
+- **加拿大**: 16 nodes
+- **韩国**: 15 nodes
+- **台湾**: 5 nodes
 
 ### 🚀 订阅链接
-| 类型 | 订阅地址 |
-| :--- | :--- |
+- **Mihomo / Clash Meta**: [mihomo.yaml](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/mihomo.yaml)
+- **Clash / Standard**: [all.yaml](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/all.yaml)
+- **Base64 (通用)**: [base64.txt](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/base64.txt)
+- **通用TXT (XiaoXi)**: [byxiaoxi.txt](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/byxiaoxi.txt)
+- **通用TXT (kooker.jp)**: [kooker.jp.txt](https://raw.githubusercontent.com/Andy181-github/Autoscrapefreenodes/main/kooker.jp.txt)
+--- | :--- |
 | **Mihomo / Clash Meta** | [`mihomo.yaml`](https://raw.githubusercontent.com/Andy181-github/AutoScrapeFreeNodes/main/mihomo.yaml) |
 | **Clash / Standard** | [`all.yaml`](https://raw.githubusercontent.com/Andy181-github/AutoScrapeFreeNodes/main/all.yaml) |
 | **Base64 (通用)** | [`base64.txt`](https://raw.githubusercontent.com/Andy181-github/AutoScrapeFreeNodes/main/base64.txt) |
